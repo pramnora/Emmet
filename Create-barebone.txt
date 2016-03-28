@@ -1,1 +1,12 @@
 html:5 (then, press [TAB] key)
+...expands inside of Brackets code editor to become...
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+
+</body>
+</html>
