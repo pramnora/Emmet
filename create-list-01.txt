@@ -1,0 +1,8 @@
+ul#idName>li.className$*4>a{linkTextName$}
+...expands to become...
+<ul id="idName">
+    <li class="className1"><a href="">linkTextName1</a></li>
+    <li class="className2"><a href="">linkTextName2</a></li>
+    <li class="className3"><a href="">linkTextName3</a></li>
+    <li class="className4"><a href="">linkTextName4</a></li>
+</ul>
